@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2025 DanishTalpur
+=======
+Copyright (c) 2024 Football Player Detection Project
+>>>>>>> cd603c1 (Initial commit - Football tracking project)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
